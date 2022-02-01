@@ -1,3 +1,3 @@
 Hello World!
 
-This is Georgi Lefterov :)
+This is Georgi Lefterov
